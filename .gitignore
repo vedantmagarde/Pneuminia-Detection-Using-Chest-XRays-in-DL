@@ -11,3 +11,13 @@ Variations.txt
 Roadmap.md
 
 scratch_gen_notebook.py
+patch_memory_error.py
+patch_memory_v2.py
+patch_paths.py
+patch_optimizer.py
+
+patch_predict.py
+
+patch_save.py
+scratch_gen_custom_e27.py
+scratch_inspect.py
