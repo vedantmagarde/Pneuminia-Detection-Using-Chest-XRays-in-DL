@@ -21,3 +21,4 @@ patch_predict.py
 patch_save.py
 scratch_gen_custom_e27.py
 scratch_inspect.py
+patch_advanced_ssl.py
